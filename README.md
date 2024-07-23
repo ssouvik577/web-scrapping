@@ -15,5 +15,5 @@ BeautifulSoup: Python library for parsing HTML and XML documents.
 requests: HTTP library for making requests in Python.
 
 ## Note:
-This project is for showcases how web scraping can be implemented using Python. It's important to respect the terms of service of websites and obtain proper permissions before scraping any data.
+This project is for showcases how web scraping can be implemented using Python. It's important to respect the terms of service of websites and obtain proper permissions before scraping any data. 
 
